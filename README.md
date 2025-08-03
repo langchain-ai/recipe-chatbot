@@ -63,6 +63,9 @@ Follow along using the updated `README.md` for each assignment below:
       - [video 1](https://youtu.be/h9oAAAYnGx4?si=fWxN3NtpSbdD55cW): walkthrough of code
       - [video 2](https://youtu.be/AKg27L4E0M8) : open & axial coding walkthrough
 
+3. HW3: LLM-as-Judge Evaluation ([`homeworks/hw3/README.md`](./homeworks/hw3/README.md))
+    - Automated evaluation using LangSmith
+
 ### Key Features
 
 - **Backend**: FastAPI with LiteLLM (multi-provider LLM support)
@@ -79,8 +82,9 @@ recipe-chatbot/
 ├── backend/               # FastAPI app & core logic
 ├── frontend/              # Chat UI (HTML/CSS/JS)
 ├── homeworks/             # 5 progressive assignments
-│   ├── hw1/              # Prompt engineering
-│   ├── hw2/              # Error analysis (with walkthrough)
+│   ├── hw1/               # Prompt engineering
+│   ├── hw2/               # Error analysis (with walkthrough)
+│   └── hw3/               # LLM-as-Judge
 ├── annotation/            # Manual annotation tools
 ├── scripts/               # Utility scripts
 ├── data/                  # Datasets and queries
