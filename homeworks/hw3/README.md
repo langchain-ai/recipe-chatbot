@@ -122,7 +122,7 @@ Iteratively test and refine your judge prompt until you reach a satisfactory ali
 - "Dairy-free but cheese is okay sometimes"
 
 ## Deliverables
-1. **Your labeled dataset** with train/dev/test splits
+1. **Your labeled dataset**
 2. **Your final judge prompt** with few-shot examples
 3. **Judge performance metrics**
 4. **Brief analysis** (1-2 paragraphs) interpreting your results
